@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @casillavincent
-- 🌱 I use React, JS, HTML5, Sass/CSS3, PHP, WordPress/WooCommerce.
+- ⌨️ I use React, JS, HTML5, Sass/CSS3, PHP, WordPress/WooCommerce.
 - 📫 Want to chat about web development or collaborate on a project? You can reach me at webdeveloper@vcasilla.com or visit my portfolio at https://vcasilla.com/
 
 <!---
