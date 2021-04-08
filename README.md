@@ -13,11 +13,5 @@ I am a Junior Front-end Web Developer who aims to create functional, user-facing
   <img src="https://user-images.githubusercontent.com/73447863/113966491-065c9300-97e4-11eb-9c05-4ed63af8ab78.png" alt="MySQL Icon" width="100" />
   <img src="https://user-images.githubusercontent.com/73447863/113966492-065c9300-97e4-11eb-8ad1-ea880200bf90.png" alt="React Icon" width="100" />
 <div>
-- - -
-
-- 📫 Want to chat about web development or collaborate on a project? You can reach me at webdeveloper@vcasilla.com or visit my portfolio at https://vcasilla.com/
-
-<!---
-casillavincent/casillavincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+Connect with me!
