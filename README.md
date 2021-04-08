@@ -1,5 +1,5 @@
 ### 👋 Hi, My name is Vincent,
-I am a Junior Front-end Web Developer who aims to create functional, user-facing online experiences while learning how to become a better developer.
+I am a Junior Front-end Developer who aims to create functional, user-facing online experiences while learning how to become a better developer.
 - - -
 #### ⌨️ Development Stack
 <div class="tech-stack" style='display: inline'>
