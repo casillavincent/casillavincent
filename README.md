@@ -13,6 +13,9 @@ I am a Junior Front-end Web Developer who aims to create functional, user-facing
   <img src="https://user-images.githubusercontent.com/73447863/113966491-065c9300-97e4-11eb-9c05-4ed63af8ab78.png" alt="MySQL Icon" width="100" />
   <img src="https://user-images.githubusercontent.com/73447863/113966492-065c9300-97e4-11eb-8ad1-ea880200bf90.png" alt="React Icon" width="100" />
 <div>
-<hr>
+  
 #### 👾 Connect with me!
-Portfolio - [Portfolio](https://vcasilla.com/)
+##### Portfolio - [www.vcasilla.com/](https://vcasilla.com/)
+##### Twitter - [www.twitter.com/casillavincent](https://twitter.com/casillavincent)
+##### Email - webdeveloper@vcasilla.com
+
