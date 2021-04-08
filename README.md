@@ -1,7 +1,7 @@
 # 👋 Hi, My name is Vincent,
 I am a Junior Front-end Developer who aims to create functional, user-facing online experiences while learning how to become a better developer.
 - - -
-#### ⌨️ Development Stack
+### ⌨️ Development Stack
 <div class="tech-stack" style='display: inline'>
   <img src="https://user-images.githubusercontent.com/73447863/113966476-0492cf80-97e4-11eb-9a56-0480c64ec90e.png" alt="HTML Icon" width="85" />
   <img src="https://user-images.githubusercontent.com/73447863/113966479-052b6600-97e4-11eb-9189-cdb00b87ae46.png" alt="CSS Icon" width="85" />
@@ -14,8 +14,8 @@ I am a Junior Front-end Developer who aims to create functional, user-facing onl
   <img src="https://user-images.githubusercontent.com/73447863/113966492-065c9300-97e4-11eb-8ad1-ea880200bf90.png" alt="React Icon" width="85" />
 <div>
   
-#### 👾 Connect with me!
-##### Portfolio - [www.vcasilla.com/](https://vcasilla.com/)
-##### Twitter - [www.twitter.com/casillavincent](https://twitter.com/casillavincent)
-##### Email - webdeveloper@vcasilla.com
+### 👾 Connect with me!
+#### Portfolio - [www.vcasilla.com/](https://vcasilla.com/)
+#### Twitter - [www.twitter.com/casillavincent](https://twitter.com/casillavincent)
+#### Email - webdeveloper@vcasilla.com
 
