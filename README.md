@@ -1,7 +1,7 @@
 # 👋 Hi, My name is Vincent,
 I am a Junior Front-end Developer who aims to create functional, user-facing online experiences while learning how to become a better developer.
 - - -
-### ⌨️ Development Stack
+### ⌨️ Tech Stack
 <div class="tech-stack" style='display: inline'>
   <img src="https://user-images.githubusercontent.com/73447863/113966476-0492cf80-97e4-11eb-9a56-0480c64ec90e.png" alt="HTML Icon" width="85" />
   <img src="https://user-images.githubusercontent.com/73447863/113966479-052b6600-97e4-11eb-9189-cdb00b87ae46.png" alt="CSS Icon" width="85" />
