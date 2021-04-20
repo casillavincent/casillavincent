@@ -1,7 +1,8 @@
 # 👋 Hi, My name is Vincent,
 ### I'm a junior front-end web developer who builds things online.
 - - -
-<br markdown="1"/>
+
+
 ### ⌨️ Tech Stack
 <div class="tech-stack" style='display: inline' markdown='1
 '>
