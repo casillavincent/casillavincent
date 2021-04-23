@@ -17,6 +17,8 @@
   <img src="https://user-images.githubusercontent.com/73447863/113966492-065c9300-97e4-11eb-8ad1-ea880200bf90.png" markdown="1" alt="React Icon" width="80" />
   <img src="https://user-images.githubusercontent.com/73447863/115331824-828f9880-a14b-11eb-8db3-e7c073cf9fe4.png" markdown="1" alt="TypeScript Icon" width="80" />  
 <div>
+
+---
   
 ### 👾 Connect with me!
 #### Portfolio - [www.vcasilla.com/](https://vcasilla.com/)
