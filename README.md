@@ -1,5 +1,5 @@
 # 👋 Hi, My name is Vincent,
-### I'm a junior front-end web developer who builds things online.
+####  **_I'm a junior front-end web developer who builds things online._**
 - - -
 
 
