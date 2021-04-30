@@ -23,7 +23,7 @@
   
 ---
   
-### 👾 Connect with me!
+### 👾  Connect with me!
 #### Portfolio - [www.vcasilla.com/](https://vcasilla.com/)
 #### Twitter - [www.twitter.com/casillavincent](https://twitter.com/casillavincent)
 #### Email - webdeveloper@vcasilla.com
