@@ -1,8 +1,6 @@
 # 👋 Hi, My name is Vincent,
 ####  **_I'm a junior front-end web developer who builds things online._**
 - - -
-
-
 ### ⌨️ Tech Stack
 <div class="tech-stack" style='display: inline' markdown='1
 '>
@@ -19,9 +17,17 @@
 <div>
 
 ---
+### 💡 What I'm learning
+  <img src="https://user-images.githubusercontent.com/73447863/116758148-559d7a00-a9c4-11eb-8359-b241e78c85be.png" markdown="1" alt="React Icon" width="80" /> 
+    <img src="https://user-images.githubusercontent.com/73447863/116758151-56cea700-a9c4-11eb-9a9a-94048a17d20d.png" markdown="1" alt="React Icon" width="90" /> 
+  
+---
   
 ### 👾 Connect with me!
 #### Portfolio - [www.vcasilla.com/](https://vcasilla.com/)
 #### Twitter - [www.twitter.com/casillavincent](https://twitter.com/casillavincent)
 #### Email - webdeveloper@vcasilla.com
+
+
+
 
