@@ -30,9 +30,7 @@
 
 
 ---
-[![Vincent's Stats](https://github-readme-stats.vercel.app/api?username=casillavincent&show_icons=true&theme=tokyonight)]
-<br markdown='1'/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=casillavincent&show_icons=true&theme=tokyonight))
+![Vincent's Stats](https://github-readme-stats.vercel.app/api?username=casillavincent&show_icons=true&theme=tokyonight)]
 
 
 
