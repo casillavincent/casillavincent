@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vincent,
-###  **_I'm a Jr. Front-end developer learning new technologies each day._**
+###  **_I'm a Jr. front-end developer who's learning new technologies each day._**
 - - -
 ### ⌨️ Tech Stack
 <div class="tech-stack" style='display: inline' markdown='1
