@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Vincent,
+# 👋 Hi, I'm Vincent,
 ###  **_I'm a Jr. Front-end developer learning new technologies each day._**
 - - -
 ### ⌨️ Tech Stack
