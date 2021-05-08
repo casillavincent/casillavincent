@@ -1,5 +1,5 @@
 # 👋 Hi, My name is Vincent,
-####  **_I'm a junior front-end web developer who builds things online._**
+####  **_I'm a junior front-end developer who's learning how to write better code everyday.  _**
 - - -
 ### ⌨️ Tech Stack
 <div class="tech-stack" style='display: inline' markdown='1
