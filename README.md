@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vincent,
-###  **_I'm a Jr. front-end developer. Let's see what I'm working on!_**
+###  **_I'm a front-end developer based in Vancouver, BC. Let's see what I'm working on!_**
 - - -
 ### ⌨️ Tech Stack
 <div class="tech-stack" style='display: inline' markdown='1
