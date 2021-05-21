@@ -20,7 +20,8 @@ I'm a front-end web developer based in Vancouver, BC. Let's see what I'm working
 ### 💡 What I'm currently learning
   <img src="https://user-images.githubusercontent.com/73447863/116758148-559d7a00-a9c4-11eb-8359-b241e78c85be.png" markdown="1" alt="React Icon" width="50" /> 
   <img src="https://user-images.githubusercontent.com/73447863/116758151-56cea700-a9c4-11eb-9a9a-94048a17d20d.png" markdown="1" alt="React Icon" width="60" />
- <img src="https://user-images.githubusercontent.com/73447863/118743469-43666d00-b807-11eb-8e03-490eff54c46d.png" markdown="1" alt="React Icon" width="50" />
+ <img src="https://user-images.githubusercontent.com/73447863/118743469-43666d00-b807-11eb-8e03-490eff54c46d.png" markdown="1" alt="Gatsby Icon" width="50" />
+ <img src="https://user-images.githubusercontent.com/73447863/119180200-d3cdc900-ba24-11eb-87b7-181afdf7ef9d.png" markdown="1" alt="Grunt Icon" width="50" />
 
 
   
