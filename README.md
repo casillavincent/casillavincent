@@ -27,6 +27,7 @@ I'm a front-end web developer based in Vancouver, BC. Let's see what I'm working
 ---
   
 ### 👾  Connect with me!
+Want to collaborate, ask a question or talk about all things web development? Shoot me a message here.
 #### Portfolio - [www.vcasilla.com/](https://vcasilla.com/)
 #### Twitter - [www.twitter.com/casillavincent](https://twitter.com/casillavincent)
 #### Email - webdeveloper@vcasilla.com
